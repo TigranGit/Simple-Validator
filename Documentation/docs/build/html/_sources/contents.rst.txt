@@ -1,7 +1,6 @@
 Welcome to Simple Validator's documentation!
 =============================================
 
-
 What is Simple Validator(SV)?
 =================================
 Simple Validator is №1 validator in the world. This tool can validate and dates and emails.
